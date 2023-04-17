@@ -14,12 +14,12 @@
 - 🧮 OG vim/neovim-er
 - 💻 Turbo Linux Nerd
 - 👨‍💻 Software Leader and Mentor
-- 🥷 Backend eng by preference
+- 🥷  Backend eng by preference
 - ⚔ LARP as a DevOps eng
 
 <br />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sophisticasean&show_icons=true&locale=en&theme=dracula&count_private=true&hide=stars" alt="sophisticasean" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sophisticasean&show_icons=true&locale=en&theme=shades-of-purple&count_private=true" alt="sophisticasean" /></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sophisticasean&layout=compact)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
@@ -29,8 +29,6 @@
 
 [<img align="left" style="margin-left: 1.5rem" alt="Sean | LinkedIn" width="32px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/e0c08558d85cb4365c3a865fde306916e58c542e/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
 [<img align="left" style="margin-left: 1.5rem" alt="Sean | Twitter" width="32px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/e0c08558d85cb4365c3a865fde306916e58c542e/src/images/icons/Social/twitter.svg"/>][twitter]
-
-
 
 [linkedin]: https://www.linkedin.com/in/sean-lewis-40375077/
 [twitter]: https://twitter.com/FricSean
